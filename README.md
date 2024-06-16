@@ -23,6 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavxlegend&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavxlegend" /> </p>
 
-<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=vaibhavxlegend&show_icons=true&locale=en" alt="vaibhavxlegend" /></p>
+<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vaibhavxlegend&show_icons=true&locale=en" alt="vaibhavxlegend" />
       
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavxlegend&" alt="vaibhavxlegend" /></p>
+<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavxlegend&" alt="vaibhavxlegend" /></p>
