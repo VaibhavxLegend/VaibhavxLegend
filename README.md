@@ -28,5 +28,5 @@
 <p align="center ">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vaibhavxlegend&show_icons=true&locale=en" alt="vaibhavxlegend"/>
       
-
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavxlegend&" alt="vaibhavxlegend" />
 </p>
