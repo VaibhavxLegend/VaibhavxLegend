@@ -3,6 +3,7 @@
 <h3 align="center">An upcoming DSA specialist And Web Developer </h3>
 <br>
 
+
 <!-- social media links -->
 <p align="center" style="display: flex; justify-content: space-around;">
 <a href="https://leetcode.com/u//">
@@ -23,7 +24,7 @@
 
 - 🔭 I’m currently working on **NFT Trading website**
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web Devlopment projects**
 
