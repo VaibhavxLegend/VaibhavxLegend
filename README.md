@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web Devlopment projects**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
 - 📫 How to reach me **vaibhav2019jain@gmail.com**
 </p>
@@ -62,7 +62,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavxlegend&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavxlegend" /> </p>
 
 <p align="center">
-<img align="left" width="44%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaibhavxlegend&theme=radical" alt="vaibhavxlegend"/>
+<img align="left" width="44%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaibhavxLegend&theme=radical&show_icons=true" alt="vaibhavxlegend"/>
       
 <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavxlegend&theme=radical" />
 </p>
