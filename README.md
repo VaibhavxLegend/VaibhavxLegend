@@ -22,7 +22,7 @@
 <p>
 
 
-- 🔭 I’m currently working on **NFT Trading website**
+- 🔭 I’m currently working on **Personal Portfolio website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
