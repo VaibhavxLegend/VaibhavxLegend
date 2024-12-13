@@ -64,7 +64,7 @@
 <p align="center">
 <img align="left" width="44%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaibhavxLegend&theme=radical&show_icons=true" alt="vaibhavxlegend"/>
       
-<img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavxlegend&theme=radical" />
+<img width="47%" align="right" src="https://streak-stats.demolab.com/?user=VaibhavxLegend&theme=radical"/>
 </p>
 
 <picture>
