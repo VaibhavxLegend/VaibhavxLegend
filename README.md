@@ -62,9 +62,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavxlegend&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavxlegend" /> </p>
 
 <p align="center">
-<img align="left" width="44%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaibhavxLegend&theme=radical&show_icons=true" alt="vaibhavxlegend"/>
+<img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaibhavxLegend&theme=radical&show_icons=true" alt="vaibhavxlegend"/>
       
-<img width="47%" align="right" src="https://streak-stats.demolab.com/?user=VaibhavxLegend&theme=radical"/>
+<img width="48%" align="right" src="https://streak-stats.demolab.com/?user=VaibhavxLegend&theme=radical"/>
 </p>
 
 <picture>
