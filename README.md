@@ -22,11 +22,11 @@
 <p>
 
 
-- 🔭 I’m currently working on **Personal Portfolio website**
+- 🔭 I’m currently working on **Agentic AI based Interview Coach**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **DL/ML Research Projects**
 
 - 📫 How to reach me **vaibhav2019jain@gmail.com**
 </p>
